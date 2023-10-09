@@ -1,0 +1,5 @@
+logs
+.history
+*.out
+*.txt
+*.html
